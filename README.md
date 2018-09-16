@@ -1,10 +1,10 @@
 # Arc Length JS
-This code andresse the problems in estimates the arc length from Bezier curves using control points 2D.
+This code addresses the solution of problems of estimate the arc length from Bézier curves using control points 2D.
 
 ### Features
 - **Vec2** Object : Create points 2D
 - ***ArcLength*** Object : Create a table with parameters u [0,1] and length [0,max-length]
-- 
+
 ### Example of Use
 Specify the curve control points at *function the exampleOfUse()*:
 ```
