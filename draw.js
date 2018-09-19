@@ -101,3 +101,4 @@ function addParameterU(){
 }
 
 textarea.addEventListener("input", drawCanvas);
+window.addEventListener("load", drawCanvas);
